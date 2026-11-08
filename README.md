@@ -55,9 +55,9 @@ This repository holds only this page. The work lives in the others:
 
 - [yavapy-harvester](https://github.com/east-van-ai/yavapy-harvester) is the
   harvest, which writes the data.
-- [yavapy-data](https://github.com/east-van-ai/yavapy-data) is one CSV file, and
-  its README explains every column. The CSV lists every candidate, with or
-  without a skill.
+- [yavapy-data](https://github.com/east-van-ai/yavapy-data) is the data: one CSV
+  of every candidate, with or without a skill, and an index of every recent PyPI
+  project beside it. Its README explains every column.
 
 ## Use of AI
 
