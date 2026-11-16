@@ -51,13 +51,18 @@ project's next release. The directory is a read-only site.
 
 ## The code and the data
 
-This repository holds only this page. The work lives in the others:
+This repository holds only this page, its changelog, and its licence. The
+work lives in the others:
 
 - [yavapy-harvester](https://github.com/east-van-ai/yavapy-harvester) is the
   harvest, which writes the data.
 - [yavapy-data](https://github.com/east-van-ai/yavapy-data) is the data: one CSV
   of every candidate, with or without a skill, and an index of every recent PyPI
   project beside it. Its README explains every column.
+
+## More documentation
+
+- [Changelog](CHANGELOG.md): project history and releases
 
 ## Use of AI
 
